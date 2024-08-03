@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: goldenrod;
+    color: white;
+}
+
+.card-title {
+    font-size: 1.25rem;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
